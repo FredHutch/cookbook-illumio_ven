@@ -1,4 +1,4 @@
-name 'cookbook-illumio-ven'
+name 'illumio_ven'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
