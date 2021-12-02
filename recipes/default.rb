@@ -8,6 +8,7 @@ execute 'activate illumio' do
   command '/opt/illumio_ven/illumio-ven-ctl activate ' \
     "--management-server #{node['illumio_ven']['mgmt_uri']}" \
     "--activation-code #{node['illumio_ven']['activation_code']}"
+  action :nothing
 end
 
 package 'illumio-ven' do
