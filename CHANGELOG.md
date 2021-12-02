@@ -6,6 +6,3 @@ This file is used to list changes made in each version of the illumio-ven cookbo
 
 Initial release.
 
-- change 0
-- change 1
-

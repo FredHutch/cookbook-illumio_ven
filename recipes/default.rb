@@ -2,7 +2,7 @@
 # Cookbook:: cookbook-illumio_ven
 # Recipe:: default
 #
-# Copyright:: 2021, The Authors, All Rights Reserved.
+# Copyright:: 2021, Fred Hutchinson CRC
 
 execute 'activate illumio' do
   command '/opt/illumio_ven/illumio-ven-ctl activate ' \
