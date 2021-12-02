@@ -1,6 +1,10 @@
-# cookbook-illumio-ven CHANGELOG
+# Cookbook Change Log
 
-This file is used to list changes made in each version of the illumio-ven cookbook.
+# 0.1.1
+
+## Fixed
+
+ - execute resource missing action property causing activate to run before package was installed.
 
 # 0.1.0
 
